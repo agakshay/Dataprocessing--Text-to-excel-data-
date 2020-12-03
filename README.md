@@ -6,7 +6,7 @@ The input is in the form of a text file as shown below:
 
 ![](Textdata.png)
 
-A sample text file is generated similar to  actual data with random data. These data's are sorted and restructured using a python program as shown below.
+A sample text file is generated similar to  actual data with random data. These data are sorted and restructured using a python program as shown below.
 
 ![](Exceldata.png)
 
