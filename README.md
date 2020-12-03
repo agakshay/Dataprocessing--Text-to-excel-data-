@@ -2,7 +2,7 @@
 ## Summary
 This is python program to convert text data to excel sheet for compressor maps and later can be used to combine the parameters as an input for training the neural network for predicting the results.
 The input is in the form of a text file as shown below:
-## Note: Actual data is not shown in this text image. 
+## Note: Actual data is not shown in this text image !!!. 
 
 ![](Textdata.png)
 
